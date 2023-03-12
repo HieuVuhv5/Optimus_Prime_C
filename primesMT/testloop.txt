@@ -1,0 +1,74 @@
+candy :3 j value: 3
+candy :7 j value: 7
+candy :11 j value: 11
+candy :15 j value: 15
+candy :19 j value: 19
+candy :23 j value: 23
+candy :27 j value: 27
+candy :31 j value: 31
+candy :35 j value: 35
+candy :39 j value: 39
+candy :43 j value: 43
+candy :47 j value: 47
+candy :51 j value: 51
+candy :55 j value: 55
+candy :59 j value: 59
+candy :63 j value: 63
+candy :67 j value: 67
+candy :71 j value: 71
+candy :75 j value: 75
+candy :79 j value: 79
+candy :83 j value: 83
+candy :87 j value: 87
+candy :91 j value: 91
+candy :95 j value: 95
+candy :99 j value: 99
+candy :5 j value: 5
+candy :9 j value: 9
+candy :13 j value: 13
+candy :17 j value: 17
+candy :21 j value: 21
+candy :25 j value: 25
+candy :29 j value: 29
+candy :33 j value: 33
+candy :37 j value: 37
+candy :41 j value: 41
+candy :45 j value: 45
+candy :49 j value: 49
+candy :53 j value: 53
+candy :57 j value: 57
+candy :61 j value: 61
+candy :65 j value: 65
+candy :69 j value: 69
+candy :73 j value: 73
+candy :77 j value: 77
+candy :81 j value: 81
+candy :85 j value: 85
+candy :89 j value: 89
+candy :93 j value: 93
+candy :97 j value: 97
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+97

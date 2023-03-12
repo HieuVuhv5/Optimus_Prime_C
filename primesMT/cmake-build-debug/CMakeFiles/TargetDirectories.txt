@@ -1,0 +1,3 @@
+D:/Study/C333/ClassLab/Labs/Lab3/primesMT/cmake-build-debug/CMakeFiles/primesMT.dir
+D:/Study/C333/ClassLab/Labs/Lab3/primesMT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Study/C333/ClassLab/Labs/Lab3/primesMT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
